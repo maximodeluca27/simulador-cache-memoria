@@ -2,7 +2,7 @@
 ---
 
 ## Ejecución del simulador
-El archivo principal es `Memoria_Accesos.ipynb`, desarrollado en **Jupyter Notebook / Google Colab**.
+El archivo principal es `Memoria_Accesos.ipynb`, desarrollado en **Python / Google Colab**.
 
 Pasos:
 1. Abrir el notebook en Jupyter o Google Colab
